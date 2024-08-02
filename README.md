@@ -1,6 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Walmart clone application
+
+## Docs
+
+- https://nextjs.org/docs
+- https://ui.shadcn.com/docs/installation/next
+- https://nextjs.org/docs/app/building-your-application/routing/route-handlers
+
+## Dependencies
+
+- npx shadcn-ui@latest init
+
+## shadcn components
+
+- npx shadcn-ui@latest add button
+
+## Features
+
+- Building the Header Component (1/2)
+- Implementing Shadcn/ui
+- Building the Header Component (2/2)
+- Building the Grid Option Component
+- Building the Search Page (1/2)
+- Implementing Oxylabs E-Commerce Scraper API
+- Setting up Type Definitions (1/2)
+- Building the Search Page (2/2)
+- Building the Product Component
+- Implementing a Loading State (1/2)
+- Creating the Product Page
+- Setting up Type Definitions (2/2)
+- Fetching Real Product Data from Walmart using Oxylabs
+- Building the Product Page
+- Implementing a Loading State (2/2)
+- Explaining and Implementing Zustand for State Management
+- Implementing Add & Remove to Cart Functionality
+- Implementing the Basket Functionality
+- Explaining and Implementing Intercepting & Parallel Routes
+- Final Build Demo
+- Deploying to Vercel
+- Final Deployed Build Demo
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
