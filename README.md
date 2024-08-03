@@ -16,10 +16,6 @@
 
 ## Features
 
-- Building the Header Component (1/2)
-- Implementing Shadcn/ui
-- Building the Header Component (2/2)
-- Building the Grid Option Component
 - Building the Search Page (1/2)
 - Implementing Oxylabs E-Commerce Scraper API
 - Setting up Type Definitions (1/2)

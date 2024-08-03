@@ -21,7 +21,6 @@ function Header() {
 
     const input = event.currentTarget.input.value;
     router.push(`/search?q=${input}`);
-    // console.log(input);
   };
 
   return (
